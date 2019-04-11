@@ -4,7 +4,7 @@
 }
 
 body{
-    background: url(/starwar/images/bg2.jpg);
+    background: url(./images/bg.jpg);
     background-color: #000;
 }
 img{
